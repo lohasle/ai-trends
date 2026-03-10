@@ -1,66 +1,71 @@
-# 🤖 AI 项目趋势追踪报告
+# 🔥 AI 项目趋势追踪报告
 
-> 📅 更新日期: 2026-03-09  
-> 🔄 数据来源: GitHub API (topic: artificial-intelligence, stars:>500)
-
----
-
-## 🏆 今日精选 Top 10 项目
-
-| 排名 | 项目 | Stars | 语言 | 简介 |
-|:---:|------|------:|------|------|
-| 1 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 182,302 | Python | AI 自动化代理平台，让 AI 为每个人服务 |
-| 2 | [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ 151,050 | HTML | Awesome ChatGPT Prompts 社区提示词合集 |
-| 3 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | ⭐ 87,491 | Jupyter | 从零开始实现类 ChatGPT 大模型 |
-| 4 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | ⭐ 79,915 | Python | 实时换脸与一键视频深度伪造工具 |
-| 5 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | ⭐ 68,804 | Python | AI 驱动的自主软件开发平台 |
-| 6 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | ⭐ 50,552 | TypeScript | 可视化构建 AI Agents 平台 |
-| 7 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | ⭐ 45,919 | Jupyter | 微软 12 周 AI 入门课程 |
-| 8 | [Kong/kong](https://github.com/Kong/kong) | ⭐ 42,907 | Lua | 云原生 API 与 AI 网关 |
-| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | ⭐ 40,760 | Python | 2小时从零训练 26M 参数 GPT |
-| 10 | [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) | ⭐ 35,969 | Python | SIGGRAPH 2023 拖拽式 GAN 图像编辑 |
+> 📅 更新时间：2026-03-10 08:07:41
 
 ---
 
-## 🧠 热门分类追踪
+## 📊 今日精选 Top 10 AI 项目
 
-### 📚 LLM (大语言模型) 热门项目
+| 排名 | 项目 | Stars | 语言 | 描述 |
+|:---:|------|------:|:----:|------|
+| 🥇 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 182,307 | Python | AI for everyone - 自动化 AI 代理 |
+| 🥈 | [Ollama](https://github.com/ollama/ollama) | 164,661 | Go | 本地运行大模型的最佳工具 |
+| 🥉 | [Transformers](https://github.com/huggingface/transformers) | 157,664 | Python | 🤗 HuggingFace 核心框架 |
+| 4 | [prompts.chat](https://github.com/f/prompts.chat) | 151,166 | HTML | 精选 ChatGPT Prompts 集合 |
+| 5 | [Dify](https://github.com/langgenius/dify) | 131,797 | TypeScript | Agent 工作流开发平台 |
+| 6 | [LangChain](https://github.com/langchain-ai/langchain) | 128,863 | Python | Agent 工程平台 |
+| 7 | [Open WebUI](https://github.com/open-webui/open-webui) | 126,431 | Python | 用户友好的 AI 界面 |
+| 8 | [Firecrawl](https://github.com/firecrawl/firecrawl) | 90,229 | TypeScript | Web 数据 API for AI |
+| 9 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 87,539 | Jupyter | 从零实现 ChatGPT |
+| 10 | [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 79,923 | Python | 实时人脸替换 |
 
-| 项目 | Stars | 语言 | 简介 |
-|------|------:|------|------|
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 164,540 | Go | 本地运行 Kimi-K2.5, GLM-5, DeepSeek, Qwen 等模型 |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | ⭐ 157,605 | Python | 🤗 最先进的机器学习模型框架 |
-| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 131,724 | TypeScript | 生产级 Agent 工作流开发平台 |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 128,737 | Python | Agent 工程平台 |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | ⭐ 126,334 | Python | 用户友好的 AI 接口 (支持 Ollama, OpenAI API) |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | ⭐ 89,888 | TypeScript | 将网站转换为 LLM-ready 的结构化数据 |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | ⭐ 79,997 | Python | 让 AI Agent 自动化浏览网页 |
-| [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | ⭐ 76,264 | - | LLM 学习路线图与 Colab 笔记 |
+---
 
-### 🤖 AI Agent 热门项目
+## 🧠 热门分类
 
-| 项目 | Stars | 语言 | 简介 |
-|------|------:|------|------|
-| [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | ⭐ 42,050 | Python | 基于大模型的超级 AI 助理 CowAgent |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | ⭐ 41,085 | TypeScript | AI 生产力工作室，300+ 助手 |
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | ⭐ 29,241 | TypeScript | Agent 前端框架 (React + Angular) |
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | ⭐ 24,356 | TypeScript | 从零构建 Claude Code 类似 Agent |
-| [activepieces/activepieces](https://github.com/activepieces/activepieces) | ⭐ 21,142 | TypeScript | AI Agent 与 MCP 自动化平台 |
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | ⭐ 18,291 | TypeScript | 免费、本地、开源的 AI 办公应用 |
-| [trycua/cua](https://github.com/trycua/cua) | ⭐ 12,946 | Python | Computer-Use Agents 基础设施 |
-| [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | ⭐ 11,187 | MDX | 企业级 Agent 安全执行环境 |
+### LLM 大语言模型
 
-### 🔍 RAG (检索增强生成) 热门项目
+| 项目 | Stars | 描述 |
+|------|------:|------|
+| [ollama/ollama](https://github.com/ollama/ollama) | 164,661 | 本地运行 Kimi-K2.5, GLM-5, MiniMax, DeepSeek 等模型 |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | 157,664 | 🤗 最先进的 ML 模型框架 |
+| [langgenius/dify](https://github.com/langgenius/dify) | 131,797 | Agent 工作流生产级平台 |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 128,863 | Agent 工程平台 |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 126,431 | 支持 Ollama/OpenAI 的友好界面 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 90,229 | 网站转 LLM-ready 数据 |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 87,539 | PyTorch 从零实现 LLM |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 80,032 | AI Agent 浏览器自动化 |
+| [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 76,292 | LLM 学习路线图 |
 
-| 项目 | Stars | 语言 | 简介 |
-|------|------:|------|------|
-| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 131,724 | TypeScript | 生产级 RAG 与 Agent 工作流平台 |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | ⭐ 101,054 | Python | Awesome LLM 应用与 RAG 集合 |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | ⭐ 74,495 | Python | 领先的开源 RAG 引擎，融合 Agent 能力 |
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | ⭐ 71,884 | Python | 文档 OCR 转 LLM 结构化数据 |
-| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | ⭐ 71,334 | MDX | Prompt 工程、RAG、AI Agent 指南 |
-| [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | ⭐ 56,178 | Jupyter | RAG、AI 管道、企业搜索云模板 |
-| [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | ⭐ 55,947 | JavaScript | 一体化 AI 生产力加速器 |
+### 🤖 AI Agent 代理
+
+| 项目 | Stars | 描述 |
+|------|------:|------|
+| [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 42,066 | CowAgent 超级 AI 助理 |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 41,112 | AI 生产力工作室 |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 29,250 | Agent 前端 & Generative UI |
+| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 24,507 | 类 Claude Code Agent |
+| [activepieces/activepieces](https://github.com/activepieces/activepieces) | 21,147 | AI Agent & MCP 自动化 |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 18,316 | 免费 AI Cowork 应用 |
+| [googleworkspace/cli](https://github.com/googleworkspace/cli) | 17,202 | Google Workspace CLI |
+| [trycua/cua](https://github.com/trycua/cua) | 12,949 | Computer-Use Agents 基础设施 |
+| [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | 11,193 | 企业级 Agent 安全环境 |
+| [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) | 8,923 | AI 影视生产平台 |
+
+### 📚 RAG 检索增强生成
+
+| 项目 | Stars | 描述 |
+|------|------:|------|
+| [langgenius/dify](https://github.com/langgenius/dify) | 131,797 | 融合 RAG + Agent 的开发平台 |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 128,863 | Agent 工程平台 |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 126,431 | 用户友好 AI 界面 |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 101,179 | LLM Apps + RAG 精选 |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 74,578 | 领先的 RAG 引擎 |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 71,921 | PDF/图片转结构化数据 |
+| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 71,350 | Prompt Engineering 指南 |
+| [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 56,174 | RAG 云模板 |
+| [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 55,977 | 全能 AI 生产力工具 |
+| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 50,569 | 可视化构建 AI Agent |
 
 ---
 
@@ -68,90 +73,51 @@
 
 ### 🔥 本周热点
 
-1. **AutoGPT 持续领跑** - 以 182K+ Stars 稳居榜首，AI 自动化代理领域标杆
-2. **Ollama 本地部署热潮** - 164K+ Stars，支持国产模型 (GLM-5, DeepSeek, Qwen)
-3. **Dify 平台崛起** - 131K+ Stars，成为 RAG 与 Agent 工作流首选平台
+1. **Claude Code 生态爆发**
+   - `claude-mem` (33,713⭐) - Claude Code 记忆插件
+   - `learn-claude-code` (24,507⭐) - 从零构建类 Claude Code Agent
+   - 趋势：AI 编程助手记忆与上下文管理成为焦点
 
-### 🚀 新兴趋势
+2. **国产 AI 工具崛起**
+   - `minimind` (40,791⭐) - 2小时从0训练26M参数GPT
+   - `iOfficeAI/AionUi` (18,316⭐) - OpenClaw/Claude Code 本地化
+   - 趋势：中文 AI 开发工具生态快速发展
 
-| 趋势 | 描述 |
-|------|------|
-| **🦾 Computer-Use Agents** | AI Agent 从文本对话进化到直接操控桌面环境 |
-| **🔌 MCP (Model Context Protocol)** | 统一 AI Agent 与外部工具的协议标准 |
-| **🏠 本地优先** | Ollama, Anything-LLM 等本地部署方案受追捧 |
-| **🎨 多模态融合** | Deep-Live-Cam 等视频/图像 AI 工具快速发展 |
-| **📚 开源大模型教育** | LLMs-from-scratch, minimind 等教程项目火爆 |
+3. **MCP (Model Context Protocol) 成为主流**
+   - `activepieces` 支持 400+ MCP servers
+   - 各大平台纷纷集成 MCP 协议
 
-### 🇨🇳 国产 AI 生态
+4. **Computer-Use Agents**
+   - `trycua/cua` (12,949⭐) - 桌面控制 Agent 基础设施
+   - `browser-use` (80,032⭐) - 浏览器自动化
+   - 趋势：AI Agent 从对话走向操作
 
-- **GLM-5** (智谱): Ollama 官方支持
-- **DeepSeek**: 开源推理模型，社区热度高
-- **Qwen** (通义千问): 阿里开源，多模态能力强
-- **minimind**: 国产小参数 GPT 训练教程
+### 📊 语言分布
 
-### ⚡ 技术栈分布
+| 语言 | 代表项目 |
+|:----:|----------|
+| Python | transformers, langchain, AutoGPT, ollama bindings |
+| TypeScript | Dify, Flowise, CopilotKit, Cherry Studio |
+| Go | Ollama (核心) |
+| Rust | googleworkspace/cli |
 
-```
-Python    ████████████████████  45%
-TypeScript ████████████         25%
-Go        ████                  8%
-Jupyter   ████                  8%
-Other     ████████              14%
-```
+### 🎯 技术趋势
 
----
-
-## 📊 完整列表 (15 个项目)
-
-| # | 项目 | Stars | Forks | Issues | 语言 |
-|:--:|:-----|:-----:|:-----:|:------:|:----:|
-| 1 | Significant-Gravitas/AutoGPT | 182,302 | 46,203 | 354 | Python |
-| 2 | f/prompts.chat | 151,050 | 19,851 | 15 | HTML |
-| 3 | rasbt/LLMs-from-scratch | 87,491 | 13,313 | 0 | Jupyter |
-| 4 | hacksider/Deep-Live-Cam | 79,915 | 11,644 | 127 | Python |
-| 5 | OpenHands/OpenHands | 68,804 | 8,603 | 367 | Python |
-| 6 | FlowiseAI/Flowise | 50,552 | 23,899 | 799 | TypeScript |
-| 7 | microsoft/AI-For-Beginners | 45,919 | 9,367 | 3 | Jupyter |
-| 8 | Kong/kong | 42,907 | 5,093 | 134 | Lua |
-| 9 | jingyaogong/minimind | 40,760 | 4,934 | 38 | Python |
-| 10 | XingangPan/DragGAN | 35,969 | 3,438 | 154 | Python |
-| 11 | thedotmack/claude-mem | 33,601 | 2,323 | 97 | TypeScript |
-| 12 | explosion/spaCy | 33,285 | 4,642 | 193 | Python |
-| 13 | ItzCrazyKns/Perplexica | 32,376 | 3,479 | 266 | TypeScript |
-| 14 | facebookresearch/fairseq | 32,181 | 6,668 | 1353 | Python |
-| 15 | ashishpatel26/500-AI-Projects | 32,104 | 6,933 | 61 | - |
+1. **Agent Orchestration** - 多 Agent 协作框架成为标配
+2. **Local-First** - 本地运行、隐私优先的工具受青睐
+3. **RAG + Agent 融合** - 纯 RAG 向 RAG+Agent 演进
+4. **可视化构建** - 低代码/无代码 AI Agent 构建平台
 
 ---
 
-## 📋 数据统计
+## 📝 数据来源
 
-- **总搜索项目数**: 596+
-- **最小 Stars 阈值**: 500
-- **分类覆盖**: LLM / Agent / RAG / 多模态 / 教育资源
-- **数据更新频率**: 每日
-
----
-
-## 🔧 快速开始
-
-```bash
-# 克隆感兴趣的项目
-git clone https://github.com/Significant-Gravitas/AutoGPT
-
-# 安装依赖
-cd AutoGPT
-pip install -r requirements.txt
-
-# 运行
-python main.py
-```
-
-## 📚 相关资源
-
-- [GitHub Trending](https://github.com/trending?since=daily)
-- [Hacker News](https://news.ycombinator.com)
-- [Product Hunt AI](https://www.producthunt.com/topics/artificial-intelligence)
+- GitHub API 搜索条件：
+  - AI: `topic:artificial-intelligence stars:>500`
+  - LLM: `topic:llm stars:>200`
+  - Agent: `topic:ai-agent stars:>100`
+  - RAG: `topic:rag stars:>50`
 
 ---
 
-*🤖 此报告由 TASK-10 自动生成 | 数据来源: GitHub API | 2026-03-09*
+*🤖 自动生成 by TASK-10 AI Trends Tracker*
