@@ -1,6 +1,6 @@
 # 🔥 AI 项目趋势追踪报告
 
-> 📅 更新时间：2026-03-10 12:00:00
+> 📅 更新时间：2026-03-11 (TASK-10 自动更新)
 
 ---
 
@@ -8,16 +8,16 @@
 
 | 排名 | 项目 | Stars | 语言 | 描述 |
 |:---:|------|------:|:----:|------|
-| 🥇 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 182,327 | Python | AI for everyone - 自动化 AI 代理 |
-| 🥈 | [prompts.chat](https://github.com/f/prompts.chat) | 151,293 | HTML | 精选 ChatGPT Prompts 集合 |
-| 🥉 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 87,609 | Jupyter | 从零实现 ChatGPT |
-| 4 | [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 79,930 | Python | 实时人脸替换 |
-| 5 | [OpenHands](https://github.com/OpenHands/OpenHands) | 68,877 | Python | AI 驱动开发平台 |
-| 6 | [Flowise](https://github.com/FlowiseAI/Flowise) | 50,588 | TypeScript | 可视化构建 AI Agent |
-| 7 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 45,950 | Jupyter | 微软 AI 入门课程 |
-| 8 | [Kong](https://github.com/Kong/kong) | 42,918 | Lua | API 与 AI Gateway |
-| 9 | [minimind](https://github.com/jingyaogong/minimind) | 40,882 | Python | 2小时从0训练26M参数GPT |
-| 10 | [DragGAN](https://github.com/XingangPan/DragGAN) | 35,967 | Python | 拖拽式图像编辑 GAN |
+| 🥇 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 182,355 | Python | AI for everyone - 自动化 AI 代理 |
+| 🥈 | [prompts.chat](https://github.com/f/prompts.chat) | 151,432 | HTML | 精选 ChatGPT/Claude/Gemini Prompts |
+| 🥉 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 87,682 | Jupyter | 从零实现 ChatGPT 级别 LLM |
+| 4 | [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 79,950 | Python | 实时人脸替换和深度伪造 |
+| 5 | [OpenHands](https://github.com/OpenHands/OpenHands) | 68,922 | Python | AI 驱动软件开发平台 |
+| 6 | [Flowise](https://github.com/FlowiseAI/Flowise) | 50,613 | TypeScript | 可视化构建 AI Agent |
+| 7 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 45,967 | Jupyter | 微软 12 周 AI 入门课程 |
+| 8 | [Kong](https://github.com/Kong/kong) | 42,923 | Lua | API 与 AI Gateway |
+| 9 | [minimind](https://github.com/jingyaogong/minimind) | 40,961 | Python | 2小时从0训练26M参数GPT |
+| 10 | [DragGAN](https://github.com/XingangPan/DragGAN) | 35,965 | Python | SIGGRAPH 2023 拖拽式图像编辑 |
 
 ---
 
@@ -29,12 +29,12 @@
 |------|------:|------|
 | [ollama/ollama](https://github.com/ollama/ollama) | 164,744 | 本地运行 Kimi-K2.5, GLM-5, MiniMax, DeepSeek 等模型 |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 157,703 | 🤗 最先进的 ML 模型框架 |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 151,294 | 精选 ChatGPT Prompts 集合 |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 151,432 | 精选 ChatGPT/Claude/Gemini Prompts |
 | [langgenius/dify](https://github.com/langgenius/dify) | 131,975 | Agent 工作流生产级平台 |
 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 128,987 | Agent 工程平台 |
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 126,553 | 支持 Ollama/OpenAI 的友好界面 |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 90,620 | 网站转 LLM-ready 数据 |
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 87,609 | PyTorch 从零实现 LLM |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 87,682 | PyTorch 从零实现 LLM |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 80,140 | AI Agent 浏览器自动化 |
 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 76,326 | LLM 学习路线图 |
 
@@ -42,16 +42,16 @@
 
 | 项目 | Stars | 描述 |
 |------|------:|------|
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 182,355 | 自主 AI 代理先驱 |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | 68,922 | AI 驱动软件开发 |
+| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 50,613 | 可视化 Agent 构建 |
+| [claude-mem](https://github.com/thedotmack/claude-mem) | 34,081 | Claude Code 记忆插件 |
+| [Vane](https://github.com/ItzCrazyKns/Vane) | 32,690 | AI 问答搜索引擎 |
 | [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 42,094 | CowAgent 超级 AI 助理 |
 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 41,179 | AI 生产力工作室 |
 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 29,268 | Agent 前端 & Generative UI |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 24,800 | 类 Claude Code Agent |
 | [activepieces/activepieces](https://github.com/activepieces/activepieces) | 21,155 | AI Agent & MCP 自动化 |
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 18,396 | 免费 AI Cowork 应用 |
-| [googleworkspace/cli](https://github.com/googleworkspace/cli) | 17,877 | Google Workspace CLI |
-| [trycua/cua](https://github.com/trycua/cua) | 12,973 | Computer-Use Agents 基础设施 |
-| [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | 11,206 | 企业级 Agent 安全环境 |
-| [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) | 9,044 | AI 影视生产平台 |
 
 ### 📚 RAG 检索增强生成
 
@@ -66,7 +66,7 @@
 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 71,389 | Prompt Engineering 指南 |
 | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 56,167 | RAG 云模板 |
 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 56,015 | 全能 AI 生产力工具 |
-| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 50,587 | 可视化构建 AI Agent |
+| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 50,613 | 可视化构建 AI Agent |
 
 ---
 
@@ -74,43 +74,51 @@
 
 ### 🔥 本周热点
 
-1. **Claude Code 生态爆发**
-   - `claude-mem` (33,932⭐) - Claude Code 记忆插件
-   - `learn-claude-code` (24,800⭐) - 从零构建类 Claude Code Agent
-   - 趋势：AI 编程助手记忆与上下文管理成为焦点
+1. **Agent 生态持续爆发**
+   - AutoGPT 保持 18万+ stars 领先地位
+   - 低代码/可视化 Agent 构建工具（Flowise）快速崛起
+   - Claude 生态插件（claude-mem）展现新机会
 
-2. **国产 AI 工具崛起**
-   - `minimind` (40,882⭐) - 2小时从0训练26M参数GPT
-   - `iOfficeAI/AionUi` (18,396⭐) - OpenClaw/Claude Code 本地化
-   - 趋势：中文 AI 开发工具生态快速发展
+2. **LLM 教育需求强劲**
+   - "从零实现" 类项目持续受欢迎
+   - 轻量级模型训练教程成为新热点
+   - minimind (40,961⭐) 2小时训练 GPT
 
-3. **MCP (Model Context Protocol) 成为主流**
-   - `activepieces` 支持 400+ MCP servers
-   - `Kong` 网关集成 MCP 支持
-   - 各大平台纷纷集成 MCP 协议
+3. **RAG 进入实用阶段**
+   - 记忆/上下文管理成为关键组件
+   - AI 搜索引擎（Vane 32,690⭐）展现新方向
+   - 企业知识库需求持续增长
 
-4. **Computer-Use Agents**
-   - `trycua/cua` (12,973⭐) - 桌面控制 Agent 基础设施
-   - `browser-use` (80,140⭐) - 浏览器自动化
-   - 趋势：AI Agent 从对话走向操作
+4. **CV 领域两极分化**
+   - 实用工具（Deep-Live-Cam 79,950⭐）vs 研究前沿（DragGAN）
+   - 深度伪造技术引发伦理讨论
 
 ### 📊 语言分布
 
 | 语言 | 代表项目 |
 |:----:|----------|
-| Python | transformers, langchain, AutoGPT, OpenHands, minimind |
-| TypeScript | Dify, Flowise, CopilotKit, Cherry Studio, claude-mem |
+| Python | transformers, langchain, AutoGPT, OpenHands, minimind, spaCy |
+| TypeScript | Dify, Flowise, CopilotKit, Cherry Studio, claude-mem, Vane |
 | Go | Ollama (核心) |
 | Lua | Kong API/AI Gateway |
 | Jupyter | LLMs-from-scratch, AI-For-Beginners |
+| HTML | prompts.chat |
 
 ### 🎯 技术趋势
 
-1. **Agent Orchestration** - 多 Agent 协作框架成为标配
-2. **Local-First** - 本地运行、隐私优先的工具受青睐
-3. **RAG + Agent 融合** - 纯 RAG 向 RAG+Agent 演进
-4. **可视化构建** - 低代码/无代码 AI Agent 构建平台
-5. **AI Gateway** - 企业级 AI API 管理与路由
+| 方向 | 热度 | 说明 |
+|------|:----:|------|
+| AI Agent | 🔥🔥🔥 | 自主决策、工具调用、多 Agent 协作 |
+| RAG 系统 | 🔥🔥🔥 | 企业知识库、长期记忆、上下文优化 |
+| LLM 训练 | 🔥🔥 | 轻量化、微调、本地部署 |
+| Prompt 工程 | 🔥🔥 | 提示词优化、结构化输出 |
+| AI Gateway | 🔥 | 统一接入、流量管理、成本控制 |
+
+### 💡 投资建议
+
+- **关注**: Agent 工具链、RAG 中间件、AI 开发者工具
+- **观望**: 深度伪造（合规风险）、纯模型训练（竞争激烈）
+- **机会**: Claude/Anthropic 生态插件、企业 AI Gateway
 
 ---
 
@@ -124,4 +132,24 @@
 
 ---
 
-*🤖 自动生成 by TASK-10 AI Trends Tracker*
+## 📋 完整列表 (Top 15)
+
+1. Significant-Gravitas/AutoGPT - 182,355 ⭐
+2. f/prompts.chat - 151,432 ⭐
+3. rasbt/LLMs-from-scratch - 87,682 ⭐
+4. hacksider/Deep-Live-Cam - 79,950 ⭐
+5. OpenHands/OpenHands - 68,922 ⭐
+6. FlowiseAI/Flowise - 50,613 ⭐
+7. microsoft/AI-For-Beginners - 45,967 ⭐
+8. Kong/kong - 42,923 ⭐
+9. jingyaogong/minimind - 40,961 ⭐
+10. XingangPan/DragGAN - 35,965 ⭐
+11. thedotmack/claude-mem - 34,081 ⭐
+12. explosion/spaCy - 33,295 ⭐
+13. ItzCrazyKns/Vane - 32,690 ⭐
+14. facebookresearch/fairseq - 32,186 ⭐
+15. ashishpatel26/500-AI-Projects - 32,148 ⭐
+
+---
+
+*🤖 自动生成 by TASK-10 AI Trends Tracker | 2026-03-11*
