@@ -1,6 +1,6 @@
 # 🔥 AI 项目趋势追踪报告
 
-> 📅 更新时间：2026-03-31 (TASK-10 自动更新)
+> 📅 更新时间：2026-04-01 21:13:22 (TASK-10 自动更新)
 
 ---
 
@@ -8,16 +8,16 @@
 
 | 排名 | 项目 | Stars | 语言 | 描述 |
 |:---:|------|------:|:----:|------|
-| 🥇 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 182,990 | Python | AI for everyone - 自动化 AI 代理 |
-| 🥈 | [prompts.chat](https://github.com/f/prompts.chat) | 155,184 | HTML | 精选 ChatGPT/Claude/Gemini Prompts |
-| 🥉 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 89,611 | Jupyter | 从零实现 ChatGPT 级别 LLM |
-| 4 | [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 86,843 | Python | 实时人脸替换和深度伪造 |
-| 5 | [OpenHands](https://github.com/OpenHands/OpenHands) | 70,283 | Python | AI 驱动软件开发平台 |
-| 6 | [Flowise](https://github.com/FlowiseAI/Flowise) | 51,291 | TypeScript | 可视化构建 AI Agent |
-| 7 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 46,345 | Jupyter | 微软 12 周 AI 入门课程 |
-| 8 | [minimind](https://github.com/jingyaogong/minimind) | 45,015 | Python | 2小时从0训练64M参数GPT |
-| 9 | [claude-mem](https://github.com/thedotmack/claude-mem) | 43,888 | TypeScript | Claude Code 记忆插件 |
-| 10 | [Kong](https://github.com/Kong/kong) | 43,078 | Lua | API 与 AI Gateway |
+| 🥇 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 183,021 | Python | AI for everyone - 自动化 AI 代理 |
+| 🥈 | [prompts.chat](https://github.com/f/prompts.chat) | 155,614 | HTML | 精选 ChatGPT/Claude/Gemini Prompts |
+| 🥉 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 89,698 | Jupyter | 从零实现 ChatGPT 级别 LLM |
+| 4 | [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 87,213 | Python | 实时人脸替换和深度伪造 |
+| 5 | [OpenHands](https://github.com/OpenHands/OpenHands) | 70,365 | Python | AI 驱动软件开发平台 |
+| 6 | [Flowise](https://github.com/FlowiseAI/Flowise) | 51,344 | TypeScript | 可视化构建 AI Agent |
+| 7 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 46,358 | Jupyter | 微软 12 周 AI 入门课程 |
+| 8 | [minimind](https://github.com/jingyaogong/minimind) | 45,265 | Python | 2小时从0训练64M参数GPT |
+| 9 | [claude-mem](https://github.com/thedotmack/claude-mem) | 44,292 | TypeScript | Claude Code 记忆插件 |
+| 10 | [Kong](https://github.com/Kong/kong) | 43,086 | Lua | API 与 AI Gateway |
 
 ---
 
@@ -130,22 +130,22 @@
 
 ## 📋 完整列表 (Top 15)
 
-1. Significant-Gravitas/AutoGPT - 182,990 ⭐
-2. f/prompts.chat - 155,184 ⭐
-3. rasbt/LLMs-from-scratch - 89,611 ⭐
-4. hacksider/Deep-Live-Cam - 86,843 ⭐
-5. OpenHands/OpenHands - 70,283 ⭐
-6. FlowiseAI/Flowise - 51,291 ⭐
-7. microsoft/AI-For-Beginners - 46,345 ⭐
-8. jingyaogong/minimind - 45,015 ⭐
-9. thedotmack/claude-mem - 43,888 ⭐
-10. Kong/kong - 43,078 ⭐
-11. XingangPan/DragGAN - 35,937 ⭐
-12. ItzCrazyKns/Vane - 33,513 ⭐
-13. explosion/spaCy - 33,398 ⭐
-14. ashishpatel26/500-AI-Projects - 32,576 ⭐
-15. facebookresearch/fairseq - 32,199 ⭐
+1. Significant-Gravitas/AutoGPT - 183,021 ⭐
+2. f/prompts.chat - 155,614 ⭐
+3. rasbt/LLMs-from-scratch - 89,698 ⭐
+4. hacksider/Deep-Live-Cam - 87,213 ⭐
+5. OpenHands/OpenHands - 70,365 ⭐
+6. FlowiseAI/Flowise - 51,344 ⭐
+7. microsoft/AI-For-Beginners - 46,358 ⭐
+8. jingyaogong/minimind - 45,265 ⭐
+9. thedotmack/claude-mem - 44,292 ⭐
+10. Kong/kong - 43,086 ⭐
+11. XingangPan/DragGAN - 35,934 ⭐
+12. ItzCrazyKns/Vane - 33,532 ⭐
+13. explosion/spaCy - 33,405 ⭐
+14. ashishpatel26/500-AI-Projects - 32,592 ⭐
+15. facebookresearch/fairseq - 32,200 ⭐
 
 ---
 
-*🤖 自动生成 by TASK-10 AI Trends Tracker | 2026-03-31*
+*🤖 自动生成 by TASK-10 AI Trends Tracker | 2026-04-01 21:13:22*
