@@ -1,151 +1,185 @@
-# 🔥 AI 项目趋势追踪报告
+# 🤖 AI 项目趋势追踪报告
 
-> 📅 更新时间：2026-04-01 21:13:22 (TASK-10 自动更新)
+> 更新时间: 2026年04月03日
 
 ---
 
 ## 📊 今日精选 Top 10 AI 项目
 
-| 排名 | 项目 | Stars | 语言 | 描述 |
-|:---:|------|------:|:----:|------|
-| 🥇 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 183,021 | Python | AI for everyone - 自动化 AI 代理 |
-| 🥈 | [prompts.chat](https://github.com/f/prompts.chat) | 155,614 | HTML | 精选 ChatGPT/Claude/Gemini Prompts |
-| 🥉 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 89,698 | Jupyter | 从零实现 ChatGPT 级别 LLM |
-| 4 | [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 87,213 | Python | 实时人脸替换和深度伪造 |
-| 5 | [OpenHands](https://github.com/OpenHands/OpenHands) | 70,365 | Python | AI 驱动软件开发平台 |
-| 6 | [Flowise](https://github.com/FlowiseAI/Flowise) | 51,344 | TypeScript | 可视化构建 AI Agent |
-| 7 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 46,358 | Jupyter | 微软 12 周 AI 入门课程 |
-| 8 | [minimind](https://github.com/jingyaogong/minimind) | 45,265 | Python | 2小时从0训练64M参数GPT |
-| 9 | [claude-mem](https://github.com/thedotmack/claude-mem) | 44,292 | TypeScript | Claude Code 记忆插件 |
-| 10 | [Kong](https://github.com/Kong/kong) | 43,086 | Lua | API 与 AI Gateway |
+### 1. [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+**⭐ Stars:** 183.1k | **🍴 Forks:** 46,216 | **💻 Language:** Python
+
+**📝 描述:** AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ---
 
-## 🧠 热门分类
+### 2. [prompts.chat](https://github.com/f/prompts.chat)
 
-### LLM 大语言模型
+**⭐ Stars:** 156.9k | **🍴 Forks:** 20,575 | **💻 Language:** HTML
 
-| 项目 | Stars | 描述 |
-|------|------:|------|
-| [ollama/ollama](https://github.com/ollama/ollama) | 166,385 | 本地运行 Kimi-K2.5, GLM-5, MiniMax, DeepSeek 等模型 |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | 158,515 | 🤗 最先进的 ML 模型框架 |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 155,184 | 精选 ChatGPT/Claude/Gemini Prompts |
-| [langgenius/dify](https://github.com/langgenius/dify) | 134,877 | Agent 工作流生产级平台 |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 131,455 | Agent 工程平台 |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 129,137 | 支持 Ollama/OpenAI 的友好界面 |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 100,196 | 网站转 LLM-ready 数据 |
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 89,611 | PyTorch 从零实现 LLM |
-
-### 🤖 AI Agent 代理
-
-| 项目 | Stars | 描述 |
-|------|------:|------|
-| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 182,990 | 自主 AI 代理先驱 |
-| [OpenHands](https://github.com/OpenHands/OpenHands) | 70,283 | AI 驱动软件开发 |
-| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 51,291 | 可视化 Agent 构建 |
-| [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 42,619 | CowAgent 超级 AI 助理 |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 42,544 | AI 生产力工作室 |
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 42,262 | 类 Claude Code Agent |
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 29,836 | Agent 前端 & Generative UI |
-| [activepieces/activepieces](https://github.com/activepieces/activepieces) | 21,475 | AI Agent & MCP 自动化 |
-
-### 📚 RAG 检索增强生成
-
-| 项目 | Stars | 描述 |
-|------|------:|------|
-| [langgenius/dify](https://github.com/langgenius/dify) | 134,877 | 融合 RAG + Agent 的开发平台 |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 131,455 | Agent 工程平台 |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 129,137 | 用户友好 AI 界面 |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 103,901 | LLM Apps + RAG 精选 |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 76,496 | 领先的 RAG 引擎 |
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 73,268 | PDF/图片转结构化数据 |
-| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 72,409 | Prompt Engineering 指南 |
-| [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 59,654 | RAG 云模板 |
-| [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 57,039 | 全能 AI 生产力工具 |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 51,374 | AI Agent 通用记忆层 |
+**📝 描述:** f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ---
 
-## 📈 趋势洞察
+### 3. [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 
-### 🔥 本周热点
+**⭐ Stars:** 89.9k | **🍴 Forks:** 13,733 | **💻 Language:** Jupyter Notebook
 
-1. **Agent 生态持续爆发**
-   - AutoGPT 保持 18万+ stars 领先地位
-   - 低代码/可视化 Agent 构建工具（Flowise）快速崛起
-   - Claude 生态插件（claude-mem 43,888⭐）展现新机会
-
-2. **LLM 教育需求强劲**
-   - "从零实现" 类项目持续受欢迎
-   - 轻量级模型训练教程成为新热点
-   - minimind (45,015⭐) 2小时训练 GPT
-
-3. **RAG 进入实用阶段**
-   - 记忆/上下文管理成为关键组件
-   - AI 搜索引擎展现新方向
-   - 企业知识库需求持续增长
-
-4. **CV 领域两极分化**
-   - 实用工具（Deep-Live-Cam 86,843⭐）vs 研究前沿（DragGAN）
-   - 深度伪造技术引发伦理讨论
-
-### 📊 语言分布
-
-| 语言 | 代表项目 |
-|:----:|----------|
-| Python | transformers, langchain, AutoGPT, OpenHands, minimind, spaCy |
-| TypeScript | Dify, Flowise, CopilotKit, Cherry Studio, claude-mem, Vane |
-| Go | Ollama (核心) |
-| Lua | Kong API/AI Gateway |
-| Jupyter | LLMs-from-scratch, AI-For-Beginners |
-| HTML | prompts.chat |
-
-### 🎯 技术趋势
-
-| 方向 | 热度 | 说明 |
-|------|:----:|------|
-| AI Agent | 🔥🔥🔥 | 自主决策、工具调用、多 Agent 协作 |
-| RAG 系统 | 🔥🔥🔥 | 企业知识库、长期记忆、上下文优化 |
-| LLM 训练 | 🔥🔥 | 轻量化、微调、本地部署 |
-| Prompt 工程 | 🔥🔥 | 提示词优化、结构化输出 |
-| AI Gateway | 🔥 | 统一接入、流量管理、成本控制 |
-
-### 💡 投资建议
-
-- **关注**: Agent 工具链、RAG 中间件、AI 开发者工具
-- **观望**: 深度伪造（合规风险）、纯模型训练（竞争激烈）
-- **机会**: Claude/Anthropic 生态插件、企业 AI Gateway
+**📝 描述:** Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ---
 
-## 📝 数据来源
+### 4. [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 
-- GitHub API 搜索条件：
-  - AI: `topic:artificial-intelligence stars:>500`
-  - LLM: `topic:llm stars:>1000`
-  - Agent: `topic:ai-agent stars:>500`
-  - RAG: `topic:rag stars:>200`
+**⭐ Stars:** 87.7k | **🍴 Forks:** 12,726 | **💻 Language:** Python
+
+**📝 描述:** real time face swap and one-click video deepfake with only a single image
 
 ---
 
-## 📋 完整列表 (Top 15)
+### 5. [OpenHands](https://github.com/OpenHands/OpenHands)
 
-1. Significant-Gravitas/AutoGPT - 183,021 ⭐
-2. f/prompts.chat - 155,614 ⭐
-3. rasbt/LLMs-from-scratch - 89,698 ⭐
-4. hacksider/Deep-Live-Cam - 87,213 ⭐
-5. OpenHands/OpenHands - 70,365 ⭐
-6. FlowiseAI/Flowise - 51,344 ⭐
-7. microsoft/AI-For-Beginners - 46,358 ⭐
-8. jingyaogong/minimind - 45,265 ⭐
-9. thedotmack/claude-mem - 44,292 ⭐
-10. Kong/kong - 43,086 ⭐
-11. XingangPan/DragGAN - 35,934 ⭐
-12. ItzCrazyKns/Vane - 33,532 ⭐
-13. explosion/spaCy - 33,405 ⭐
-14. ashishpatel26/500-AI-Projects - 32,592 ⭐
-15. facebookresearch/fairseq - 32,200 ⭐
+**⭐ Stars:** 70.5k | **🍴 Forks:** 8,828 | **💻 Language:** Python
+
+**📝 描述:** 🙌 OpenHands: AI-Driven Development
 
 ---
 
-*🤖 自动生成 by TASK-10 AI Trends Tracker | 2026-04-01 21:13:22*
+### 6. [Flowise](https://github.com/FlowiseAI/Flowise)
+
+**⭐ Stars:** 51.5k | **🍴 Forks:** 24,036 | **💻 Language:** TypeScript
+
+**📝 描述:** Build AI Agents, Visually
+
+---
+
+### 7. [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+
+**⭐ Stars:** 46.4k | **🍴 Forks:** 9,491 | **💻 Language:** Jupyter Notebook
+
+**📝 描述:** 12 Weeks, 24 Lessons, AI for All!
+
+---
+
+### 8. [minimind](https://github.com/jingyaogong/minimind)
+
+**⭐ Stars:** 45.5k | **🍴 Forks:** 5,542 | **💻 Language:** Python
+
+**📝 描述:** 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
+
+---
+
+### 9. [claude-mem](https://github.com/thedotmack/claude-mem)
+
+**⭐ Stars:** 44.8k | **🍴 Forks:** 3,387 | **💻 Language:** TypeScript
+
+**📝 描述:** A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+
+---
+
+### 10. [kong](https://github.com/Kong/kong)
+
+**⭐ Stars:** 43.1k | **🍴 Forks:** 5,107 | **💻 Language:** Lua
+
+**📝 描述:** 🦍 The API and AI Gateway
+
+---
+
+## 🔥 热门分类
+
+### LLM
+
+- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** - 183.1k ⭐
+  AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provi...
+
+- **[prompts.chat](https://github.com/f/prompts.chat)** - 156.9k ⭐
+  f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op...
+
+- **[LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** - 89.9k ⭐
+  Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+
+- **[minimind](https://github.com/jingyaogong/minimind)** - 45.5k ⭐
+  🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
+
+### Agent
+
+- **[Flowise](https://github.com/FlowiseAI/Flowise)** - 51.5k ⭐
+  Build AI Agents, Visually
+
+- **[claude-mem](https://github.com/thedotmack/claude-mem)** - 44.8k ⭐
+  A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
+
+### RAG
+
+- **[DragGAN](https://github.com/XingangPan/DragGAN)** - 35.9k ⭐
+  Official Code for DragGAN (SIGGRAPH 2023)
+
+### Computer Vision
+
+- **[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** - 87.7k ⭐
+  real time face swap and one-click video deepfake with only a single image
+
+- **[500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)** - 32.6k ⭐
+  500 AI Machine learning Deep learning Computer vision NLP Projects with code
+
+### Other
+
+- **[OpenHands](https://github.com/OpenHands/OpenHands)** - 70.5k ⭐
+  🙌 OpenHands: AI-Driven Development
+
+- **[AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** - 46.4k ⭐
+  12 Weeks, 24 Lessons, AI for All!
+
+- **[kong](https://github.com/Kong/kong)** - 43.1k ⭐
+  🦍 The API and AI Gateway
+
+- **[Vane](https://github.com/ItzCrazyKns/Vane)** - 33.6k ⭐
+  Vane is an AI-powered answering engine.
+
+- **[spaCy](https://github.com/explosion/spaCy)** - 33.4k ⭐
+  💫 Industrial-strength Natural Language Processing (NLP) in Python
+
+## 💡 趋势洞察
+
+### 📈 整体趋势
+
+- **总项目数:** 665 个 AI 相关项目
+- **样本分析:** 本次抓取前 15 个高星项目
+- **更新活跃度:** 大部分项目近期有更新
+
+### 🎯 热点方向
+
+1. **Agent 自主化趋势明显** - AutoGPT 等项目持续领跑，显示出市场对 AI Agent 的强烈关注
+2. **LLM 应用生态繁荣** - 大量基于大语言模型的应用项目涌现
+3. **RAG 技术成为标配** - 检索增强生成技术在企业应用中广泛采用
+4. **开源生态活跃** - 平均星标数 65.8k，社区参与度高
+
+### 💻 热门编程语言
+
+- **Python**: 7 个项目 (46.7%)
+- **TypeScript**: 3 个项目 (20.0%)
+- **Jupyter Notebook**: 2 个项目 (13.3%)
+- **HTML**: 1 个项目 (6.7%)
+- **Lua**: 1 个项目 (6.7%)
+
+
+### 🔮 未来展望
+
+1. **多模态融合** - 图像、文本、音频的统一处理能力将成为标配
+2. **垂直领域深化** - 针对特定行业的 AI 解决方案将更加成熟
+3. **推理能力提升** - Agent 的复杂推理和规划能力将持续增强
+4. **效率优化** - 模型压缩、推理加速等技术将更加重要
+
+---
+
+## 📚 数据来源
+
+- 数据源: GitHub API
+- 搜索条件: `topic:artificial-intelligence+stars:>500`
+- 排序方式: 按 Star 数降序
+- 生成时间: 2026-04-03 20:02:49
+
+---
+
+*本报告由 AI 自动生成，数据来源于 GitHub 公开 API*
